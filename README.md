@@ -16,3 +16,10 @@ WARNINGS:
 
 
 -For the purpose of being harder to kill, you can only kill it via the task killer.
+
+
+If you don't want to compile it yourself, you can download it here:
+
+https://drive.google.com/open?id=1CSHOP6U9fEsYxBtsVfnkxK8hJH70T97T
+
+(Scan it on virus total first, never trust online files, not even from me)
