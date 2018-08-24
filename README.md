@@ -4,6 +4,8 @@ A simple console application that scans the RAM and kills the .exes that the use
 Usage: The app will ask you the name of the app you want to kill and the time that this app will stay in the background.
 
 WARNINGS:
+
+
 -Save whatever you're doing with the target app because this app doesn't care about what you're doing, it will simply kill it when there's an instance of it running.
 
 
